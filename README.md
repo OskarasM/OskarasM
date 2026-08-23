@@ -18,11 +18,13 @@ is committed data rather than a claim.
 
 Since February 2026 I have run Zoltrack, a one-person web development studio,
 alongside a full-time Computer Science teaching job. Five production
-applications, 692 commits, all live.
+applications, 723 commits, all live.
 
-- [stokestudenthomes.co.uk](https://stokestudenthomes.co.uk) - Next.js lettings platform: Sanity CMS, Zod-validated API routes, Upstash rate limiting, Playwright and axe in CI
-- [atelier3d.co.uk](https://atelier3d.co.uk) - React Three Fiber storefront, Stripe checkout on Express, 374 commits
-- [zoltrack.com](https://zoltrack.com) - studio site
+- [atelier3d.co.uk](https://atelier3d.co.uk) - React Three Fiber storefront with Stripe checkout on Express. 395 commits
+- [luckyclaw.co.uk](https://luckyclaw.co.uk) - React 19 storefront for a Birmingham arcade brand, built mobile-first from 375px. 122 commits
+- [stokestudenthomes.co.uk](https://stokestudenthomes.co.uk) - Next.js lettings platform: Sanity CMS, Zod-validated API routes, Upstash rate limiting, Playwright and axe in CI. 83 commits
+- [zoltrack.com](https://zoltrack.com) - the studio's own site. 63 commits
+- [ecaccounts.co.uk](https://ecaccounts.co.uk) - React 19 and Tailwind 4 marketing site for a London bookkeeping practice. 60 commits
 
 **Games**
 
