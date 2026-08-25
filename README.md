@@ -11,7 +11,7 @@ number on every demo links to the file that produced it, and every measurement
 is committed data rather than a claim.
 
 - [three-dispose-guard](https://github.com/OskarasM/three-dispose-guard) - ownership-aware GPU resource disposal for Three.js and React Three Fiber. On npm, published over OIDC with provenance. [Demo](https://three-dispose-guard.vercel.app)
-- [scene-narrator](https://github.com/OskarasM/scene-narrator) - gives a moving 3D scene a navigable accessibility tree without spending the frame budget on it. Verified against NVDA. [Demo](https://scene-narrator-inky.vercel.app)
+- [scene-narrator](https://github.com/OskarasM/scene-narrator) - gives a moving 3D scene a navigable accessibility tree without spending the frame budget on it. Verified against NVDA. [Demo](https://scene-narrator-demo.vercel.app)
 - [realtime-3d-room](https://github.com/OskarasM/realtime-3d-room) - a shared 3D room on Supabase Realtime, and a measured account of why presence cannot carry position. [Demo](https://realtime-3d-room.vercel.app)
 
 **Client work**
