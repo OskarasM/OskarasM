@@ -43,7 +43,7 @@ project and check every change before it ships.
 
 **Games**
 
-- GradEX 2025 award, Games Tools category, for the Miasma System: a spreading hazard tool in C++ and Unreal Engine 5, built on EQS and pathfinding. Technical lead on *Miasma Ashlung*.
+- GradEX 2025 Showcase Winner, Games Tools category, for the Miasma System: a spreading hazard tool in C++ and Unreal Engine 5, built on EQS and pathfinding. Technical lead on *Miasma Ashlung*.
 - Dissertation: an adaptive boss battle system, measured at 91.7% player satisfaction across user testing. [Games portfolio](https://oskaras-portfolio.vercel.app)
 
 Currently teaching GCSE and A-Level Computer Science.
